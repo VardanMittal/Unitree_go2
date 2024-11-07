@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+go2_gazebo/__init__.py
+go2_gazebo.egg-info/PKG-INFO
+go2_gazebo.egg-info/SOURCES.txt
+go2_gazebo.egg-info/dependency_links.txt
+go2_gazebo.egg-info/entry_points.txt
+go2_gazebo.egg-info/requires.txt
+go2_gazebo.egg-info/top_level.txt
+go2_gazebo.egg-info/zip-safe
+resource/go2_gazebo

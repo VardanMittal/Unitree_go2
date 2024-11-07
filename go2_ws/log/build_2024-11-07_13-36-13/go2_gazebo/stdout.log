@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating go2_gazebo.egg-info
+writing go2_gazebo.egg-info/PKG-INFO
+writing dependency_links to go2_gazebo.egg-info/dependency_links.txt
+writing entry points to go2_gazebo.egg-info/entry_points.txt
+writing requirements to go2_gazebo.egg-info/requires.txt
+writing top-level names to go2_gazebo.egg-info/top_level.txt
+writing manifest file 'go2_gazebo.egg-info/SOURCES.txt'
+reading manifest file 'go2_gazebo.egg-info/SOURCES.txt'
+writing manifest file 'go2_gazebo.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_gazebo/lib/python3.10/site-packages/go2-gazebo.egg-link (link to .)
+
+Installed /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_gazebo
+running symlink_data
+creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_gazebo/share/ament_index
+creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_gazebo/share/ament_index/resource_index
+creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_gazebo/share/ament_index/resource_index/packages
+symbolically linking /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_gazebo/resource/go2_gazebo -> /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_gazebo/share/ament_index/resource_index/packages
+symbolically linking /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_gazebo/package.xml -> /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_gazebo/share/go2_gazebo

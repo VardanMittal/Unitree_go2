@@ -1,0 +1,25 @@
+[1.726s] Invoking command in '/home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description': PYTHONPATH=/home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description/build --no-deps symlink_data
+[2.172s] running develop
+[2.175s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.175s]   warnings.warn(
+[2.417s] running egg_info
+[2.418s] creating go2_description.egg-info
+[2.424s] writing go2_description.egg-info/PKG-INFO
+[2.424s] writing dependency_links to go2_description.egg-info/dependency_links.txt
+[2.424s] writing entry points to go2_description.egg-info/entry_points.txt
+[2.424s] writing requirements to go2_description.egg-info/requires.txt
+[2.424s] writing top-level names to go2_description.egg-info/top_level.txt
+[2.425s] writing manifest file 'go2_description.egg-info/SOURCES.txt'
+[2.425s] reading manifest file 'go2_description.egg-info/SOURCES.txt'
+[2.425s] writing manifest file 'go2_description.egg-info/SOURCES.txt'
+[2.428s] running build_ext
+[2.428s] Creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/lib/python3.10/site-packages/go2-description.egg-link (link to .)
+[2.430s] 
+[2.430s] Installed /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description
+[2.431s] running symlink_data
+[2.431s] creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/share/ament_index
+[2.431s] creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/share/ament_index/resource_index
+[2.431s] creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/share/ament_index/resource_index/packages
+[2.432s] symbolically linking /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description/resource/go2_description -> /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/share/ament_index/resource_index/packages
+[2.439s] symbolically linking /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description/package.xml -> /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/share/go2_description
+[2.538s] Invoked command in '/home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description' returned '0': PYTHONPATH=/home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description/build --no-deps symlink_data

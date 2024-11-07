@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating go2_description.egg-info
+writing go2_description.egg-info/PKG-INFO
+writing dependency_links to go2_description.egg-info/dependency_links.txt
+writing entry points to go2_description.egg-info/entry_points.txt
+writing requirements to go2_description.egg-info/requires.txt
+writing top-level names to go2_description.egg-info/top_level.txt
+writing manifest file 'go2_description.egg-info/SOURCES.txt'
+reading manifest file 'go2_description.egg-info/SOURCES.txt'
+writing manifest file 'go2_description.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/lib/python3.10/site-packages/go2-description.egg-link (link to .)
+
+Installed /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description
+running symlink_data
+creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/share/ament_index
+creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/share/ament_index/resource_index
+creating /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/share/ament_index/resource_index/packages
+symbolically linking /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description/resource/go2_description -> /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/share/ament_index/resource_index/packages
+symbolically linking /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/build/go2_description/package.xml -> /home/vardan/Introduction-to-Robotics/Unitree_go2/go2_ws/install/go2_description/share/go2_description

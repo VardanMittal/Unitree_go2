@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+go2_description/__init__.py
+go2_description.egg-info/PKG-INFO
+go2_description.egg-info/SOURCES.txt
+go2_description.egg-info/dependency_links.txt
+go2_description.egg-info/entry_points.txt
+go2_description.egg-info/requires.txt
+go2_description.egg-info/top_level.txt
+go2_description.egg-info/zip-safe
+resource/go2_description
